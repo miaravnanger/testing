@@ -15,9 +15,47 @@ img {
 h1 {
 color:rgb(0, 0, 0);
 }
-
+hr {
+    color:black;
+}
 .text-content {
-text-align:center;
+text-align:left;
 color:rgb(12, 12, 24);
 font-family: 'Times New Roman', Times, serif;
+font-size: large;
 }
+button {
+    color:black;
+    background-color: blueviolet;
+}
+h2 {
+    text-align: left;
+    color: black;
+}
+.text-content {
+    text-align: left;
+}
+a:link{
+  color:rgb(12, 12, 24);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-decoration: none;
+}
+a:visited {
+    color:rgb(26, 5, 109);
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+a:hover {
+    color:beige;
+    font-family:'Times New Roman', Times, serif;
+    text-decoration: underline;
+    font-style:normal
+}
+a:active {
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+p {
+ margin-bottom: 10px;}
